@@ -1,6 +1,6 @@
 ﻿namespace Lab4_HuongDanTH3_ADO_Net
 {
-    partial class Form1
+    partial class FormDShs
     {
         /// <summary>
         /// Required designer variable.
@@ -68,6 +68,8 @@
             // gradientPanel1
             // 
             this.gradientPanel1.Angel = 0F;
+            this.gradientPanel1.AutoScroll = true;
+            this.gradientPanel1.AutoSize = true;
             this.gradientPanel1.Bottomcolor = System.Drawing.Color.Azure;
             this.gradientPanel1.Controls.Add(this.grbDShs);
             this.gradientPanel1.Controls.Add(this.groupBox2);
@@ -347,13 +349,15 @@
             this.label1.TabIndex = 0;
             this.label1.Text = "DANH SÁCH HỌC SINH";
             // 
-            // Form1
+            // FormDShs
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.AutoScroll = true;
+            this.AutoSize = true;
             this.ClientSize = new System.Drawing.Size(1102, 691);
             this.Controls.Add(this.gradientPanel1);
-            this.Name = "Form1";
+            this.Name = "FormDShs";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
@@ -368,6 +372,7 @@
             this.grbThongtin.ResumeLayout(false);
             this.grbThongtin.PerformLayout();
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 

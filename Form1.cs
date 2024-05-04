@@ -11,7 +11,7 @@ using System.Data.SqlClient;
 using System.Security.Cryptography.X509Certificates;
 namespace Lab4_HuongDanTH3_ADO_Net
 {
-    public partial class Form1 : Form
+    public partial class FormDShs : Form
     {
 
        
@@ -73,7 +73,7 @@ namespace Lab4_HuongDanTH3_ADO_Net
             }
 
         }
-        public Form1()
+        public FormDShs()
         {
             InitializeComponent();
            
@@ -213,8 +213,9 @@ namespace Lab4_HuongDanTH3_ADO_Net
             cmd.Parameters.AddWithValue("@MaLop", malop);
             cmd.Parameters.AddWithValue("@MaHS", maHS);
             cmd.ExecuteNonQuery();
-            conn.Close();
+            
             MessageBox.Show("Cập nhật dữ liệu thành công");
+            conn.Close();
         }
 
         private void pictureBox2_Click(object sender, EventArgs e)
