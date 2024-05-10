@@ -1,0 +1,17 @@
+R:\App_Details\Visual_Studio\WorkSpace_C_Sharp\ThucHanh_WindowForm\Lab04\Sourcecode\Lab05_Bo_Sung\bin\Debug\Lab05_Bo_Sung.exe.config
+R:\App_Details\Visual_Studio\WorkSpace_C_Sharp\ThucHanh_WindowForm\Lab04\Sourcecode\Lab05_Bo_Sung\bin\Debug\Lab05_Bo_Sung.exe
+R:\App_Details\Visual_Studio\WorkSpace_C_Sharp\ThucHanh_WindowForm\Lab04\Sourcecode\Lab05_Bo_Sung\bin\Debug\Lab05_Bo_Sung.pdb
+R:\App_Details\Visual_Studio\WorkSpace_C_Sharp\ThucHanh_WindowForm\Lab04\Sourcecode\Lab05_Bo_Sung\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+R:\App_Details\Visual_Studio\WorkSpace_C_Sharp\ThucHanh_WindowForm\Lab04\Sourcecode\Lab05_Bo_Sung\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+R:\App_Details\Visual_Studio\WorkSpace_C_Sharp\ThucHanh_WindowForm\Lab04\Sourcecode\Lab05_Bo_Sung\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+R:\App_Details\Visual_Studio\WorkSpace_C_Sharp\ThucHanh_WindowForm\Lab04\Sourcecode\Lab05_Bo_Sung\obj\Debug\Lab05_Bo_Sung.csproj.AssemblyReference.cache
+R:\App_Details\Visual_Studio\WorkSpace_C_Sharp\ThucHanh_WindowForm\Lab04\Sourcecode\Lab05_Bo_Sung\obj\Debug\Lab05_Bo_Sung.frmBoSung.resources
+R:\App_Details\Visual_Studio\WorkSpace_C_Sharp\ThucHanh_WindowForm\Lab04\Sourcecode\Lab05_Bo_Sung\obj\Debug\Lab05_Bo_Sung.Properties.Resources.resources
+R:\App_Details\Visual_Studio\WorkSpace_C_Sharp\ThucHanh_WindowForm\Lab04\Sourcecode\Lab05_Bo_Sung\obj\Debug\Lab05_Bo_Sung.csproj.GenerateResource.cache
+R:\App_Details\Visual_Studio\WorkSpace_C_Sharp\ThucHanh_WindowForm\Lab04\Sourcecode\Lab05_Bo_Sung\obj\Debug\Lab05_Bo_Sung.exe.licenses
+R:\App_Details\Visual_Studio\WorkSpace_C_Sharp\ThucHanh_WindowForm\Lab04\Sourcecode\Lab05_Bo_Sung\obj\Debug\Lab05_Bo_Sung.csproj.CoreCompileInputs.cache
+R:\App_Details\Visual_Studio\WorkSpace_C_Sharp\ThucHanh_WindowForm\Lab04\Sourcecode\Lab05_Bo_Sung\obj\Debug\Lab05_Bo_Sung.csproj.CopyComplete
+R:\App_Details\Visual_Studio\WorkSpace_C_Sharp\ThucHanh_WindowForm\Lab04\Sourcecode\Lab05_Bo_Sung\obj\Debug\Lab05_Bo_Sung.exe
+R:\App_Details\Visual_Studio\WorkSpace_C_Sharp\ThucHanh_WindowForm\Lab04\Sourcecode\Lab05_Bo_Sung\obj\Debug\Lab05_Bo_Sung.pdb
+R:\App_Details\Visual_Studio\WorkSpace_C_Sharp\ThucHanh_WindowForm\Lab04\Sourcecode\Lab05_Bo_Sung\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+R:\App_Details\Visual_Studio\WorkSpace_C_Sharp\ThucHanh_WindowForm\Lab04\Sourcecode\Lab05_Bo_Sung\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
